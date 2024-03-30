@@ -26,3 +26,4 @@ Notes:
   - Number of multi-gpu's tested concurrently: 10
   - CUDA version: 11.4
   - OS: Ubuntu v.20.04
+  - MAKE SURE you run a -verify on your .bin's after creation.
