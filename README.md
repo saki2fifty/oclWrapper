@@ -21,8 +21,8 @@ Results:
 
 Notes:
 - Mileage may vary; this may not work within your setup.  My setup:
-- OpenCL: v.1.2
-- Nvidia driver version: 470.239.06 (on a test instance)
-- Number of multi-gpu's tested concurrently: 10
-- CUDA version: 11.4
-- OS: Ubuntu v.20.04
+  - OpenCL: v.1.2
+  - Nvidia driver version: 470.239.06 (on a test instance)
+  - Number of multi-gpu's tested concurrently: 10
+  - CUDA version: 11.4
+  - OS: Ubuntu v.20.04
